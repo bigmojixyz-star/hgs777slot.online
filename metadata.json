@@ -1,0 +1,6 @@
+{
+  "name": "Admin Deposit & WD",
+  "description": "A high-fidelity administrator dashboard panel for managing deposit and withdrawal requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
